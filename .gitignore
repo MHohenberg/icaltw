@@ -6,6 +6,10 @@
 # config-files
 twconfig
 
+# certs
+certs/localhost.key
+certs/localhost.crt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

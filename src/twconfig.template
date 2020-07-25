@@ -1,3 +1,5 @@
 [SERVER]
 hostname=
 port=4912
+ssl_keyfile=
+ssl_certfile=

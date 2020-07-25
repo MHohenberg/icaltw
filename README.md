@@ -1,6 +1,6 @@
-# icaltw
+# caldavtw
 
-icaltw is an ical server for taskwarrior tasks.
+caldavtw is an ical server for taskwarrior tasks.
 
 ## Goals
 
@@ -14,4 +14,5 @@ I just began. Make yourself a tea, and wait. Or better: Help!
 
 ## License
 
-icaltw is licensed under the terms of the GNU General Public License V3 or later
+caldavtw is licensed under the terms of the GNU General Public License V3 or 
+later.
